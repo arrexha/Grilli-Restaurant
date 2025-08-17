@@ -1,35 +1,44 @@
-Grilli Restaurant
+🍴 Grilli Restaurant
 
-A modern, responsive restaurant website built using HTML, CSS, and JavaScript.
+A modern, responsive restaurant website built with HTML, CSS, and JavaScript. Explore the menu, enjoy smooth animations, and experience a seamless browsing experience across all devices.
 
-Overview
+🌟 Features
 
-Grilli Restaurant's website provides a sleek and user-friendly interface for customers to explore the menu, make reservations, and learn more about the restaurant. It is fully responsive and works seamlessly across devices, ensuring a smooth browsing experience on desktops, tablets, and mobile phones.
-
-Features
-
-Responsive Design: Optimized for all screen sizes using CSS media queries.
+Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
 Interactive Navigation: Smooth scrolling and dynamic menu interactions using JavaScript.
 
-Modern Layout: Clean and elegant design with visually appealing sections.
+Modern Layout & Animations: Clean sections with subtle CSS effects for an elegant look.
 
-Animations & Effects: Subtle CSS animations enhance user experience.
+User-Friendly Interface: Easy to navigate with clear menus and information.
 
-Technologies Used
+🛠 Technologies Used
 
-HTML5 – Structure and content of the website.
+HTML5 – Structure and content of the website
 
-CSS – Styling, layout, and responsiveness.
+CSS3 – Styling, layout, and responsive design
 
-JavaScript – Interactive elements and dynamic content.
+JavaScript – Interactive elements and dynamic functionality
 
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
 
-Windows:
+🚀 Getting Started
+Clone the repository
+git clone https://github.com/yourusername/grilli-restaurant.git
 
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
+Open the website
+
+Navigate to the project folder and open index.html in your preferred browser.
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/YourFeature)
+
+Commit your changes (git commit -m 'Add YourFeature')
+
+Push to the branch (git push origin feature/YourFeature)
+
+Open a Pull Request
